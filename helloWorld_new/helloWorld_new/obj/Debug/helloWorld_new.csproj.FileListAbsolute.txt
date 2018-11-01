@@ -1,0 +1,7 @@
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\bin\Debug\helloWorld_new.exe.config
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\bin\Debug\helloWorld_new.exe
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\bin\Debug\helloWorld_new.pdb
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\obj\Debug\helloWorld_new.csprojResolveAssemblyReference.cache
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\obj\Debug\helloWorld_new.csproj.CoreCompileInputs.cache
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\obj\Debug\helloWorld_new.exe
+c:\users\dmitry.shub\source\repos\helloWorld_new\helloWorld_new\obj\Debug\helloWorld_new.pdb
